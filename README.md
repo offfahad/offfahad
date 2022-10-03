@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahad and I'm Computer Science student.
 - 👀 I’m interested to learn programming languages.
-- 🌱 I’m currently learning C++,Java and Python.
+- 🌱 I’m currently learning Mobile Application Development and Web Development.
 - 💞️ I’m looking to collaborate on different languages projects.
 - 📫 You can contact with me via my email.
 
