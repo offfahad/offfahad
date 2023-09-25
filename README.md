@@ -5,7 +5,7 @@
 - 🔭 Currently perusing my BS degree in Computer Science at **University of Gujrat.**
 - 🌱 Currently working on **Flutter, Python and Deep Learning.**
 - 💬 Interested in **Artificial Intelligence, Mobile and Web Apps Development.**
-- 🤝 I can aslo work on with **Android Jetpack Compose, React, JavaScript, NodeJs, Flask and .Net(C#) .**
+- 🤝 I can aslo work on with **Android Jetpack Compose, React, Angular, JavaScript, NodeJs, Flask and .Net(C#) .**
 
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
