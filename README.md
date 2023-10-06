@@ -3,9 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=offfahad&label=Profile%20views&color=0e75b6&style=flat" alt="offfahad" /> </p>
 
 - 🔭 Currently perusing my BS degree in Computer Science at **University of Gujrat.**
-- 🌱 Currently working on **Flutter, Python and Deep Learning.**
+- 🌱 Currently mastering the skills in **Flutter, Python, Machine and Deep Learning.**
 - 💬 Interested in **Artificial Intelligence, Mobile and Web Apps Development.**
-- 🤝 I can aslo work on with **Android Jetpack Compose, Firebase, React, Angular, JavaScript, NodeJs, Flask and .Net (C#) .**
+- 🤝 I can aslo work on with **Jetpack Compose, Firebase, React, Angular, JavaScript, NodeJs, Flask and .Net (C#).**
 
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
