@@ -5,8 +5,7 @@
 - 🔭 Currently perusing my BS degree in Computer Science at **University of Gujrat.**
 - 🌱 Mastering the skills in **Flutter, Python, Machine and Deep Learning.**
 - 💬 Interested in **Artificial Intelligence, Mobile and Web Apps Development.**
-- 🤝 I can aslo work on with **Jetpack Compose, Firebase, React, Angular, JavaScript, NodeJs, Flask and .Net (C#).**
-
+  
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://twitter.com/fahadintrouble" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="fahadintrouble" height="30" width="40" /></a><a href="https://linkedin.com/in/offfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="offfahad" height="30" width="40" /></a><a href="https://fb.com/Officialofffahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Officialofffahad" height="30" width="40" /></a><a href="https://instagram.com/offfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="offfahad" height="30" width="40" /></a></p>
