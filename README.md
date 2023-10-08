@@ -5,7 +5,7 @@
 - 🔭 Currently perusing my BS degree in Computer Science at **University of Gujrat.**
 - 🌱 Mastering the skills in **Flutter, Python, Machine and Deep Learning.**
 - 💬 Interested in **Artificial Intelligence, Mobile and Web Apps Development.**
-- 🚀 [Explore my captivating portfolio here](https://offfahad.netlify.app/)
+- 🚀 See my portfolio **offfahad.netlify.app****.**
   
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
