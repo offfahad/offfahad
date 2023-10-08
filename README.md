@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'am Fahad</h1>
-<h3 align="center">AI,Ml Engineer | Flutter Developer</h3>
+<h3 align="center">Ml Engineer | Flutter Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=offfahad&label=Profile%20views&color=0e75b6&style=flat" alt="offfahad" /> </p>
 
 - 🔭 Currently perusing my BS degree in Computer Science at **University of Gujrat.**
 - 🌱 Mastering the skills in **Flutter, Python, Machine and Deep Learning.**
 - 💬 Interested in **Artificial Intelligence, Mobile and Web Apps Development.**
-- 🚀 See my portfolio **https://offfahad.netlify.app**.
+- 🚀 See my portfolio **https://offfahad.netlify.app**
   
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
