@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'am Fahad</h1>
-<h3 align="center">Ml Engineer | Flutter Developer</h3>
+<h3 align="center">Machine Learning Engineer | Flutter Developer</h3>
 
 - 🔭 Currently perusing my BS degree in Computer Science at **University of Gujrat.**
 - 🌱 Mastering the skills in **Flutter, Python, Machine and Deep Learning.**
