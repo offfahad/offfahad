@@ -2,11 +2,11 @@
 <h3 align="center">Machine Learning Engineer | Mobile Application Developer</h3>
 
 <h3 align="center">🚀 My Deployed Apps</h3>
+
 <h3 align="center">🚀 My Deployed Apps</h3>
 
 <table align="center">
   <tr>
-    <!-- The One Academy -->
     <td align="center" width="200px">
       <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065" target="_blank">
         <img src="https://cdn.prod.website-files.com/67645ee9bb3cab47367ad074/67645ee9bb3cab47367ad0ac_Logo%20Original.png" width="80" height="80" alt="The One Academy"/>
@@ -15,8 +15,10 @@
       <strong>The One Academy</strong><br/>
       <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065">App Store</a>
     </td>
-
-    <!-- 4secrets -->
+  <tr>
+<tr>
+  
+</tr>
     <td align="center" width="200px">
       <a href="https://apps.apple.com/us/app/4secrets-wedding-planner/id6751853164" target="_blank">
         <img src="https://www.4secrets-wedding-planner.de/wp-content/uploads/go-x/u/36db61d9-b42e-4182-8596-23a016aa827f/image-640x702.png" width="80" height="80" alt="4secrets"/>
@@ -27,7 +29,6 @@
       <a href="https://play.google.com/store/apps/details?id=com.app.four_secrets_wedding_app">Play Store</a>
     </td>
 
-    <!-- Asfor -->
     <td align="center" width="200px">
       <a href="https://play.google.com/store/apps/details?id=com.asfor.app" target="_blank">
         <img src="YOUR_ASFOR_LOGO_URL" width="80" height="80" alt="Asfor"/>
@@ -39,7 +40,6 @@
   </tr>
 
   <tr>
-    <!-- Afghan Business Directory -->
     <td align="center" width="200px">
       <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422" target="_blank">
         <img src="https://afghanbusinessdirectory.ca/finallogotransparent.png" width="80" height="80" alt="Afghan Business Directory"/>
@@ -50,7 +50,6 @@
       <a href="https://play.google.com/store/apps/details?id=com.afghanbusiness.directory">Play Store</a>
     </td>
 
-    <!-- 5th App (Placeholder Example) -->
     <td align="center" width="200px">
       <a href="YOUR_APP_LINK" target="_blank">
         <img src="YOUR_LOGO_URL" width="80" height="80" alt="App Name"/>
@@ -61,9 +60,10 @@
       <a href="PLAY_STORE_LINK">Play Store</a>
     </td>
 
-    <td align="center" width="200px"></td> <!-- Empty to balance the row -->
+    <td align="center" width="200px"></td> <!-- empty cell just for balance -->
   </tr>
 </table>
+
 
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
