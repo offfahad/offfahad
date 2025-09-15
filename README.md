@@ -1,5 +1,50 @@
 <h1 align="center">Hi 👋, I'am Fahad</h1>
 <h3 align="center">Machine Learning Engineer | Mobile Application Developer</h3>
+
+<h3 align="center">🚀 My Deployed Apps</h3>
+
+<p align="center">
+  <!-- The One Academy -->
+  <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065" target="_blank">
+    <img src="https://cdn.prod.website-files.com/67645ee9bb3cab47367ad074/67645ee9bb3cab47367ad0ac_Logo%20Original.png" width="80" height="80" alt="The One Academy"/>
+  </a>
+  <br/>
+  <strong>The One Academy</strong><br/>
+  <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065" target="_blank">App Store</a> | 
+</p>
+
+<p align="center">
+  <!-- 4secrets -->
+  <a href="https://apps.apple.com/app/4secrets-wedding-planner/idXXXXXXXXX" target="_blank">
+    <img src="https://www.4secrets-wedding-planner.de/wp-content/uploads/go-x/u/36db61d9-b42e-4182-8596-23a016aa827f/image-640x702.png" width="80" height="80" alt="4secrets"/>
+  </a>
+  <br/>
+  <strong>4secrets - Wedding Planner</strong><br/>
+  <a href="https://apps.apple.com/us/app/4secrets-wedding-planner/id6751853164" target="_blank">App Store</a> | 
+  <a href="https://play.google.com/store/apps/details?id=com.app.four_secrets_wedding_app" target="_blank">Play Store</a>
+</p>
+
+<p align="center">
+  <!-- Asfor -->
+  <a href="https://apps.apple.com/app/asfor/idXXXXXXXXX" target="_blank">
+    <img src="YOUR_APP_LOGO_URL" width="80" height="80" alt="Asfor"/>
+  </a>
+  <br/>
+  <strong>Asfor</strong><br/>
+  <a href="https://play-lh.googleusercontent.com/4f6H3G5D_KNtK7CMo20c3arOICoKtXQ_2EHiu6xQMg9fDxCB-8E94kTp5DU7rpIN6yIRRyU7HEFNmrm1BtNZpA=w480-h960-rw" target="_blank">Play Store</a>
+</p>
+
+<p align="center">
+  <!-- Afghan Business Directory -->
+  <a href="https://afghanbusinessdirectory.ca/finallogotransparent.png" target="_blank">
+    <img src="YOUR_APP_LOGO_URL" width="80" height="80" alt="Afghan Business Directory"/>
+  </a>
+  <br/>
+  <strong>Afghan Business Directory Canada</strong><br/>
+  <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422
+" target="_blank">App Store</a> | 
+  <a href="https://play.google.com/store/apps/details?id=com.afghanbusiness.directory" target="_blank">Play Store</a>
+</p>
   
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
