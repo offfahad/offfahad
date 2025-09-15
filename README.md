@@ -12,8 +12,7 @@
 
 <p align="center">
   <strong>Afghan Business Directory Canada</strong> — 
-  <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422">App Store</a> | 
-  <a href="https://play.google.com/store/apps/details?id=com.afghanbusiness.directory">Play Store</a> | 
+  <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422">App Store</a> |
   <a href="https://afghanbusinessdirectory.ca">Website</a>
 </p>
 
@@ -25,7 +24,6 @@
 
 <p align="center">
   <strong>Asfor</strong> — 
-  <a href="#">App Store</a> | 
   <a href="https://play.google.com/store/apps/details?id=com.asfor.app">Play Store</a> |
   <a href="https://asfor.app">Website</a>
 </p>
