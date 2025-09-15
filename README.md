@@ -1,39 +1,6 @@
 <h1 align="center">Hi 👋, I'am Fahad</h1>
 <h3 align="center">Machine Learning Engineer | Mobile Application Developer</h3>
 
-<h3 align="center">🚀 My Deployed Projects</h3>
-
-<p align="center">
-  <strong>4secrets - Wedding Planner</strong> — 
-  <a href="https://apps.apple.com/us/app/4secrets-wedding-planner/id6751853164">App Store</a> | 
-  <a href="https://play.google.com/store/apps/details?id=com.app.four_secrets_wedding_app">Play Store</a> | 
-  <a href="https://www.4secrets-wedding-planner.de">Website</a>
-</p>
-
-<p align="center">
-  <strong>Afghan Business Directory Canada</strong> — 
-  <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422">App Store</a> |
-  <a href="https://afghanbusinessdirectory.ca">Website</a>
-</p>
-
-<p align="center">
-  <strong>The One Academy</strong> — 
-  <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065">App Store</a> |
-  <a href="https://www.theone.academy">Website</a>
-</p>
-
-<p align="center">
-  <strong>Asfor - Smart Save </strong> — 
-  <a href="https://play.google.com/store/apps/details?id=com.asformehmood.app">Play Store</a> |
-  <a href="https://asfor.app">Website</a>
-</p>
-
-<p align="center">
-  <strong>Khata Connect: CashBook</strong> — 
-  <a href="https://apps.apple.com/us/app/khata-connect-cashbook/id6744577038">App Store</a>
-</p>
-
-
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://twitter.com/fahadintrouble" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="fahadintrouble" height="30" width="40" /></a><a href="https://linkedin.com/in/offfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="offfahad" height="30" width="40" /></a><a href="https://fb.com/Officialofffahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Officialofffahad" height="30" width="40" /></a><a href="https://instagram.com/offfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="offfahad" height="30" width="40" /></a></p>
