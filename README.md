@@ -3,34 +3,34 @@
 
 <h3 align="center">🚀 Things I’ve Shipped to the World</h3>
 
-<p align="center">
+<p align="start">
   <strong>4secrets - Wedding Planner</strong> — 
   <a href="https://apps.apple.com/us/app/4secrets-wedding-planner/id6751853164">App Store</a> | 
   <a href="https://play.google.com/store/apps/details?id=com.app.four_secrets_wedding_app">Play Store</a> | 
   <a href="https://www.4secrets-wedding-planner.de">Website</a>
 </p>
 
-<p align="center">
+<p align="start">
   <strong>Afghan Business Directory Canada</strong> — 
   <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422">App Store</a> | 
   <a href="https://play.google.com/store/apps/details?id=com.afghanbusiness.directory">Play Store</a> | 
   <a href="https://afghanbusinessdirectory.ca">Website</a>
 </p>
 
-<p align="center">
+<p align="start">
   <strong>The One Academy</strong> — 
   <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065">App Store</a> |
   <a href="https://www.theone.academy">Website</a>
 </p>
 
-<p align="center">
+<p align="start">
   <strong>Asfor</strong> — 
   <a href="#">App Store</a> | 
   <a href="https://play.google.com/store/apps/details?id=com.asfor.app">Play Store</a> |
   <a href="https://asfor.app">Website</a>
 </p>
 
-<p align="center">
+<p align="start">
   <strong>Khata Connect: CashBook</strong> — 
   <a href="https://apps.apple.com/us/app/khata-connect-cashbook/id6744577038">App Store</a>
 </p>
