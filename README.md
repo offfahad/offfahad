@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <strong>Asfor</strong> — 
-  <a href="https://play.google.com/store/apps/details?id=com.asfor.app">Play Store</a> |
+  <strong>Asfor - Smart Save </strong> — 
+  <a href="https://play.google.com/store/apps/details?id=com.asformehmood.app">Play Store</a> |
   <a href="https://asfor.app">Website</a>
 </p>
 
