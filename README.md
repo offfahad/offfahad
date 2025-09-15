@@ -2,50 +2,69 @@
 <h3 align="center">Machine Learning Engineer | Mobile Application Developer</h3>
 
 <h3 align="center">🚀 My Deployed Apps</h3>
+<h3 align="center">🚀 My Deployed Apps</h3>
 
-<p align="center">
-  <!-- The One Academy -->
-  <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065" target="_blank">
-    <img src="https://cdn.prod.website-files.com/67645ee9bb3cab47367ad074/67645ee9bb3cab47367ad0ac_Logo%20Original.png" width="80" height="80" alt="The One Academy"/>
-  </a>
-  <br/>
-  <strong>The One Academy</strong><br/>
-  <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065" target="_blank">App Store</a> | 
-</p>
+<table align="center">
+  <tr>
+    <!-- The One Academy -->
+    <td align="center" width="200px">
+      <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065" target="_blank">
+        <img src="https://cdn.prod.website-files.com/67645ee9bb3cab47367ad074/67645ee9bb3cab47367ad0ac_Logo%20Original.png" width="80" height="80" alt="The One Academy"/>
+      </a>
+      <br/>
+      <strong>The One Academy</strong><br/>
+      <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065">App Store</a>
+    </td>
 
-<p align="center">
-  <!-- 4secrets -->
-  <a href="https://apps.apple.com/app/4secrets-wedding-planner/idXXXXXXXXX" target="_blank">
-    <img src="https://www.4secrets-wedding-planner.de/wp-content/uploads/go-x/u/36db61d9-b42e-4182-8596-23a016aa827f/image-640x702.png" width="80" height="80" alt="4secrets"/>
-  </a>
-  <br/>
-  <strong>4secrets - Wedding Planner</strong><br/>
-  <a href="https://apps.apple.com/us/app/4secrets-wedding-planner/id6751853164" target="_blank">App Store</a> | 
-  <a href="https://play.google.com/store/apps/details?id=com.app.four_secrets_wedding_app" target="_blank">Play Store</a>
-</p>
+    <!-- 4secrets -->
+    <td align="center" width="200px">
+      <a href="https://apps.apple.com/us/app/4secrets-wedding-planner/id6751853164" target="_blank">
+        <img src="https://www.4secrets-wedding-planner.de/wp-content/uploads/go-x/u/36db61d9-b42e-4182-8596-23a016aa827f/image-640x702.png" width="80" height="80" alt="4secrets"/>
+      </a>
+      <br/>
+      <strong>4secrets - Wedding Planner</strong><br/>
+      <a href="https://apps.apple.com/us/app/4secrets-wedding-planner/id6751853164">App Store</a> | 
+      <a href="https://play.google.com/store/apps/details?id=com.app.four_secrets_wedding_app">Play Store</a>
+    </td>
 
-<p align="center">
-  <!-- Asfor -->
-  <a href="https://apps.apple.com/app/asfor/idXXXXXXXXX" target="_blank">
-    <img src="YOUR_APP_LOGO_URL" width="80" height="80" alt="Asfor"/>
-  </a>
-  <br/>
-  <strong>Asfor</strong><br/>
-  <a href="https://play-lh.googleusercontent.com/4f6H3G5D_KNtK7CMo20c3arOICoKtXQ_2EHiu6xQMg9fDxCB-8E94kTp5DU7rpIN6yIRRyU7HEFNmrm1BtNZpA=w480-h960-rw" target="_blank">Play Store</a>
-</p>
+    <!-- Asfor -->
+    <td align="center" width="200px">
+      <a href="https://play.google.com/store/apps/details?id=com.asfor.app" target="_blank">
+        <img src="YOUR_ASFOR_LOGO_URL" width="80" height="80" alt="Asfor"/>
+      </a>
+      <br/>
+      <strong>Asfor</strong><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.asfor.app">Play Store</a>
+    </td>
+  </tr>
 
-<p align="center">
-  <!-- Afghan Business Directory -->
-  <a href="https://afghanbusinessdirectory.ca/finallogotransparent.png" target="_blank">
-    <img src="YOUR_APP_LOGO_URL" width="80" height="80" alt="Afghan Business Directory"/>
-  </a>
-  <br/>
-  <strong>Afghan Business Directory Canada</strong><br/>
-  <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422
-" target="_blank">App Store</a> | 
-  <a href="https://play.google.com/store/apps/details?id=com.afghanbusiness.directory" target="_blank">Play Store</a>
-</p>
-  
+  <tr>
+    <!-- Afghan Business Directory -->
+    <td align="center" width="200px">
+      <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422" target="_blank">
+        <img src="https://afghanbusinessdirectory.ca/finallogotransparent.png" width="80" height="80" alt="Afghan Business Directory"/>
+      </a>
+      <br/>
+      <strong>Afghan Business Directory</strong><br/>
+      <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422">App Store</a> | 
+      <a href="https://play.google.com/store/apps/details?id=com.afghanbusiness.directory">Play Store</a>
+    </td>
+
+    <!-- 5th App (Placeholder Example) -->
+    <td align="center" width="200px">
+      <a href="YOUR_APP_LINK" target="_blank">
+        <img src="YOUR_LOGO_URL" width="80" height="80" alt="App Name"/>
+      </a>
+      <br/>
+      <strong>App Name</strong><br/>
+      <a href="APP_STORE_LINK">App Store</a> | 
+      <a href="PLAY_STORE_LINK">Play Store</a>
+    </td>
+
+    <td align="center" width="200px"></td> <!-- Empty to balance the row -->
+  </tr>
+</table>
+
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://twitter.com/fahadintrouble" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="fahadintrouble" height="30" width="40" /></a><a href="https://linkedin.com/in/offfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="offfahad" height="30" width="40" /></a><a href="https://fb.com/Officialofffahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Officialofffahad" height="30" width="40" /></a><a href="https://instagram.com/offfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="offfahad" height="30" width="40" /></a></p>
