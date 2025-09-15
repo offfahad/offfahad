@@ -1,44 +1,40 @@
 <h1 align="center">Hi 👋, I'am Fahad</h1>
 <h3 align="center">Machine Learning Engineer | Mobile Application Developer</h3>
 
-<h3 align="center">🚀 My Deployed Apps</h3>
+<h3 align="center">🚀 Things I’ve Shipped to the World</h3>
 
-<!-- First Row -->
 <p align="center">
-  <strong>The One Academy</strong><br/>
-  <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065">App Store</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#">Play Store</a> 
+  <strong>4secrets - Wedding Planner</strong> — 
+  <a href="https://apps.apple.com/us/app/4secrets-wedding-planner/id6751853164">App Store</a> | 
+  <a href="https://play.google.com/store/apps/details?id=com.app.four_secrets_wedding_app">Play Store</a> | 
+  <a href="https://www.4secrets-wedding-planner.de">Website</a>
 </p>
 
 <p align="center">
-  <strong>4secrets - Wedding Planner</strong><br/>
-  <a href="https://apps.apple.com/us/app/4secrets-wedding-planner/id6751853164">App Store</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.app.four_secrets_wedding_app">Play Store</a>
+  <strong>Afghan Business Directory Canada</strong> — 
+  <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422">App Store</a> | 
+  <a href="https://play.google.com/store/apps/details?id=com.afghanbusiness.directory">Play Store</a> | 
+  <a href="https://afghanbusinessdirectory.ca">Website</a>
 </p>
 
 <p align="center">
-  <strong>Asfor</strong><br/>
-  <a href="#">App Store</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.asfor.app">Play Store</a>
-</p>
-
-<!-- Second Row -->
-<p align="center">
-  <strong>Afghan Business Directory Canada</strong><br/>
-  <a href="https://apps.apple.com/us/app/afghan-business-directory-ca/id6752224422">App Store</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.afghanbusiness.directory">Play Store</a>
+  <strong>The One Academy</strong> — 
+  <a href="https://apps.apple.com/us/app/the-one-academy/id6743944065">App Store</a> |
+  <a href="https://www.theone.academy">Website</a>
 </p>
 
 <p align="center">
-  <strong>Fifth App Name</strong><br/>
-  <a href="#">App Store</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#">Play Store</a>
+  <strong>Asfor</strong> — 
+  <a href="#">App Store</a> | 
+  <a href="https://play.google.com/store/apps/details?id=com.asfor.app">Play Store</a> |
+  <a href="https://asfor.app">Website</a>
 </p>
+
+<p align="center">
+  <strong>Khata Connect: CashBook</strong> — 
+  <a href="https://apps.apple.com/us/app/khata-connect-cashbook/id6744577038">App Store</a>
+</p>
+
 
 </div><h3 align="center">Connect With Me</h3>
 <p align="center">
