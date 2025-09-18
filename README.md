@@ -4,11 +4,15 @@
 </div>
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://www.fiverr.com/devfahad_" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fiverr.svg" alt="fiverr" height="30" width="40" style="filter: invert(42%) sepia(78%) saturate(420%) hue-rotate(90deg) brightness(95%) contrast(90%);" />
+  <a href="https://www.fiverr.com/devfahad_" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fiverr.svg" 
+         alt="fiverr" height="30" width="30" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01851d6dd5d7e4b201" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" alt="upwork" height="30" width="40" style="fill:#6FDA44;" />
+  <a href="https://www.upwork.com/freelancers/~01851d6dd5d7e4b201" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" 
+         alt="upwork" height="30" width="30" />
   </a>
   <a href="https://twitter.com/fahadintrouble" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="twitter" height="30" width="40" />
