@@ -5,17 +5,10 @@
 <h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://www.fiverr.com/offfahad" target="blank">
-  <svg role="img" viewBox="0 0 24 24" height="30" width="40" xmlns="http://www.w3.org/2000/svg">
-    <title>Fiverr</title>
-    <path d="M24 12a12 12 0 1 1-24 0 12 12 0 0 1 24 0z" fill="#1DBF73"/>
-  </svg>
+  <img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="30" />
 </a>
-
 <a href="https://www.upwork.com/freelancers/~YOUR-ID-HERE" target="blank">
-  <svg role="img" viewBox="0 0 24 24" height="30" width="40" xmlns="http://www.w3.org/2000/svg">
-    <title>Upwork</title>
-    <path d="M14.14 0c-2.08 0-3.88 1.68-4.05 3.76a8.2 8.2 0 0 0 .12 1.55A8.8 8.8 0 0 1 12 8.12V24h4.09V8.72c.64.23 1.37.35 2.18.35 3.13 0 5.73-2.55 5.73-5.68C24 2.55 21.4 0 18.27 0c-1.38 0-2.58.54-3.39 1.42C14.72.56 14.41 0 14.14 0z" fill="#6FDA44"/>
-  </svg>
+  <img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="30" />
 </a>
   <a href="https://twitter.com/fahadintrouble" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="twitter" height="30" width="40" />
