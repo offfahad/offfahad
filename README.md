@@ -1,9 +1,29 @@
 <h1 align="center">Hi 👋, I'am Fahad</h1>
 <h3 align="center">Machine Learning Engineer | Mobile Application Developer</h3>
 
-</div><h3 align="center">Connect With Me</h3>
+</div>
+<h3 align="center">Connect With Me</h3>
 <p align="center">
-<a href="https://twitter.com/fahadintrouble" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="fahadintrouble" height="30" width="40" /></a><a href="https://linkedin.com/in/offfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="offfahad" height="30" width="40" /></a><a href="https://fb.com/Officialofffahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Officialofffahad" height="30" width="40" /></a><a href="https://instagram.com/offfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="offfahad" height="30" width="40" /></a></p>
+  <a href="https://twitter.com/fahadintrouble" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="fahadintrouble" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/offfahad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="offfahad" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/Officialofffahad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Officialofffahad" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/offfahad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="offfahad" height="30" width="40" />
+  </a>
+  <a href="https://www.fiverr.com/devfahad_" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fiverr.svg" alt="fiverr" height="30" width="40" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01851d6dd5d7e4b201" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" alt="upwork" height="30" width="40" />
+  </a>
+</p>
+
 
 <h3 align="center">Languages And Tools</h3>
 <p align="center">
