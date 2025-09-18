@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.fiverr.com/devfahad_" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fiverr/fiverr-original.svg" alt="fiverr" height="30" width="40" />
+    <img align="center" src="https://github.com/user-attachments/assets/8948859e-bafc-42ef-8f37-b07bd04bea9b" alt="fiverr" height="30" width="30" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01851d6dd5d7e4b201" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" alt="upwork" height="30" width="40" style="fill:#6FDA44;" />
+    <img align="center" src="https://github.com/user-attachments/assets/78bea5b5-1c9b-45d3-97b2-cf8ef95c5144" alt="upwork" height="30" width="30" />
   </a>
   <a href="https://twitter.com/fahadintrouble" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="twitter" height="30" width="40" />
@@ -24,6 +24,7 @@
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="center">Languages And Tools</h3>
