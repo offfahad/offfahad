@@ -63,9 +63,17 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nestjs-original-wordmark.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/react-native.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/ionic-original-wordmark.svg" alt="Ionic" width="40" height="40"/>
+<!-- Next.js -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" alt="Next.js" width="40" height="40"/>
+
+<!-- NestJS -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg" alt="NestJS" width="40" height="40"/>
+
+<!-- React Native -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React Native" width="40" height="40"/> <!-- Note: React Native icon often same as React; if there’s specific RN icon it may need a different source -->
+
+<!-- Ionic -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ionic.svg" alt="Ionic" width="40" height="40"/>
+
 </p>
 
