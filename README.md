@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">Machine Learning Engineer | Mobile and Web Application Developer</h3>
+<h3 align="center">ML & AI Engineer | Full-Stack Dev</h3>
 
 </div>
 <h3 align="center">Connect With Me</h3>
