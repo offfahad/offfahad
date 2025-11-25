@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">ML & AI Engineer | Full-Stack Dev</h3>
 
-<p align="center">
-  <strong>4+ years of experience</strong> • Motivated and skilled Full-Stack Software Developer with strong expertise in Mobile (Android, iOS) and Web development, and Artificial Intelligence. Experienced in Machine Learning and advanced AI technologies, with hands-on work in generative image models and intelligent automation system design. Published multiple apps on Apple App Store and Google Play Store. Passionate about combining software engineering with cutting-edge AI to build innovative, research-oriented solutions.
+<p align="start">
+  <strong>4+ years of experience</strong> • Full-Stack Developer specializing in Mobile (Android, iOS) & Web development, AI, and Machine Learning. Hands-on experience with generative image models, intelligent automation, and publishing apps on Apple App Store & Google Play Store. Passionate about building innovative, AI-driven solutions.
 </p>
+
 
 </div>
 <h3 align="center">Connect With Me</h3>
