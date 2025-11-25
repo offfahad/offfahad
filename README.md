@@ -25,9 +25,6 @@
   <a href="mailto:mughalfahad544@gmail.com" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://offfahad.netlify.app" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="portfolio" height="30" />
-  </a>
 </p>
 
 
