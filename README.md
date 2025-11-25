@@ -1,16 +1,15 @@
 <h1 align="start">Hi 👋, I'm Fahad</h1>
-<h3 align="start">ML & AI Engineer | Full-Stack Dev</h3>
+<h3 align="start">ML & AI Engineer | Full-Stack Developer</h3>
 
 <p align="start">
-  <strong>4+ years of experience</strong> • Full-Stack Developer specializing in Mobile (Android, iOS) & Web development, AI, and Machine Learning. Hands-on experience with generative image models, intelligent automation, and publishing apps on Apple App Store & Google Play Store. Passionate about building innovative, AI-driven solutions.
+  <strong>4+ years of experience</strong> • Full-Stack Developer specializing in Mobile (Android, iOS) & Web development, AI, and Machine Learning. I have independently handled full projects like <a href="https://www.theone.academy/" target="_blank"><u>The One Academy</u></a> and <a href="https://www.4secrets-wedding-planner.de/" target="_blank"><u>4Secrets - The Wedding Planner</u></a>, as well as collaborative platforms like <a href="https://afghanbusinessdirectory.ca/" target="_blank"><u>Afghan Business Directory</u></a> and <a href="https://asfor.app/" target="_blank"><u>Asfor — Digital Marketplace</u></a>. I manage both mobile and web app development, ongoing updates, and maintenance. These projects have enabled my clients to generate revenues in the thousands of dollars, combining innovative software solutions with AI-driven features. Hands-on experience with generative image models, intelligent automation, and publishing apps on Apple App Store & Google Play Store. Passionate about building scalable, research-oriented, and AI-powered solutions.
 </p>
 
-
-</div>
 <h3 align="start">Connect With Me</h3>
 <p align="start">
   <a href="https://www.linkedin.com/in/offfahad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
   <a href="https://fb.com/Officialofffahad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
@@ -22,6 +21,12 @@
   </a>
   <a href="https://www.fiverr.com/devfahad_" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/fiverr" alt="Fiverr" height="30" width="40" />
+  </a>
+  <a href="mailto:mughalfahad544@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://offfahad.netlify.app" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="portfolio" height="30" />
   </a>
 </p>
 
