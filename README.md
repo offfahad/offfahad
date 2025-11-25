@@ -2,7 +2,15 @@
 <h3 align="start">ML & AI Engineer | Full-Stack Developer</h3>
 
 <p align="start">
-  <strong>4+ years of experience</strong> • Full-Stack Developer specializing in Mobile (Android, iOS) & Web development, AI, and Machine Learning. I have independently handled full projects like <a href="https://www.theone.academy/" target="_blank"><u>The One Academy</u></a> and <a href="https://www.4secrets-wedding-planner.de/" target="_blank"><u>4Secrets - The Wedding Planner</u></a>, as well as collaborative platforms like <a href="https://afghanbusinessdirectory.ca/" target="_blank"><u>Afghan Business Directory</u></a> and <a href="https://asfor.app/" target="_blank"><u>Asfor — Digital Marketplace</u></a>. I manage both mobile and web app development, ongoing updates, and maintenance. These projects have enabled my clients to generate revenues in the thousands of dollars, combining innovative software solutions with AI-driven features. Hands-on experience with generative image models, intelligent automation, and publishing apps on Apple App Store & Google Play Store. Passionate about building scalable, research-oriented, and AI-powered solutions.
+  <strong>4+ years of experience</strong> in Full-Stack Development, specializing in Mobile (Android/iOS), Web Applications, and AI solutions. I handle complete projects from start to finish—planning, building, launching, and maintaining applications to ensure they grow with your business.
+</p>
+
+<p align="start">
+  I've successfully created platforms like <a href="https://www.theone.academy/" target="_blank"><u>The One Academy</u></a>, <a href="https://www.4secrets-wedding-planner.de/" target="_blank"><u>4Secrets - The Wedding Planner</u></a>, and team projects like <a href="https://afghanbusinessdirectory.ca/" target="_blank"><u>Afghan Business Directory</u></a> and <a href="https://asfor.app/" target="_blank"><u>Asfor — Digital Marketplace</u></a>. These projects have helped clients earn <strong>thousands in revenue</strong> by combining easy-to-use designs with smart AI features.
+</p>
+
+<p align="start">
+  I focus on building practical solutions that solve real business problems, using the latest technology to create apps that work well and deliver results.
 </p>
 
 <h3 align="start">Connect With Me</h3>
@@ -26,7 +34,6 @@
     <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40" />
   </a>
 </p>
-
 
 <!-- <h3 align="center">Languages And Tools</h3>
 <p align="center">
