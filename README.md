@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">ML & AI Engineer | Full-Stack Dev</h3>
+<h1 align="start">Hi 👋, I'm Fahad</h1>
+<h3 align="start">ML & AI Engineer | Full-Stack Dev</h3>
 
 <p align="start">
   <strong>4+ years of experience</strong> • Full-Stack Developer specializing in Mobile (Android, iOS) & Web development, AI, and Machine Learning. Hands-on experience with generative image models, intelligent automation, and publishing apps on Apple App Store & Google Play Store. Passionate about building innovative, AI-driven solutions.
@@ -7,8 +7,8 @@
 
 
 </div>
-<h3 align="center">Connect With Me</h3>
-<p align="center">
+<h3 align="start">Connect With Me</h3>
+<p align="start">
   <a href="https://www.linkedin.com/in/offfahad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   <a href="https://fb.com/Officialofffahad" target="_blank">
