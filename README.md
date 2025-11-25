@@ -4,26 +4,23 @@
 </div>
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-
-  <a href="https://www.fiverr.com/devfahad_" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="30" />
-</a>
-<a href="https://www.upwork.com/freelancers/~01851d6dd5d7e4b201" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="30" />
-</a>
-</p>
-<p align="center">
-  <a href="https://twitter.com/fahadintrouble" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/offfahad" target="blank">
+  <a href="https://www.linkedin.com/in/offfahad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://fb.com/Officialofffahad" target="blank">
+  <a href="https://twitter.com/fahadintrouble" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/Officialofffahad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/offfahad" target="blank">
+  <a href="https://instagram.com/offfahad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01851d6dd5d7e4b201" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/upwork" alt="Upwork" height="30" width="40" />
+  </a>
+  <a href="https://www.fiverr.com/devfahad_" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/fiverr" alt="Fiverr" height="30" width="40" />
   </a>
 </p>
 
