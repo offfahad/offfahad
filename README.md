@@ -6,7 +6,7 @@
 </p>
 
 <p align="start">
-  I've successfully created platforms like <a href="https://www.theone.academy/" target="_blank"><u>The One Academy</u></a>, <a href="https://www.4secrets-wedding-planner.de/" target="_blank"><u>4Secrets - The Wedding Planner</u></a>, and team projects like <a href="https://afghanbusinessdirectory.ca/" target="_blank"><u>Afghan Business Directory</u></a> and <a href="https://asfor.app/" target="_blank"><u>Asfor — Digital Marketplace</u></a>. These projects have helped clients earn <strong>thousands in revenue</strong> by combining easy-to-use designs with smart AI features.
+  I've successfully develeoped and contributed in the platforms like <a href="https://www.theone.academy/" target="_blank"><u>The One Academy</u></a>, <a href="https://www.4secrets-wedding-planner.de/" target="_blank"><u>4Secrets - The Wedding Planner</u></a>, and team projects like <a href="https://afghanbusinessdirectory.ca/" target="_blank"><u>Afghan Business Directory</u></a> and <a href="https://asfor.app/" target="_blank"><u>Asfor — Digital Marketplace</u></a>. These projects have helped clients earn <strong>thousands in revenue</strong> by combining easy-to-use designs with smart AI features.
 </p>
 
 <p align="start">
