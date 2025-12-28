@@ -2,7 +2,7 @@
 <h3 align="start">ML & AI Engineer | Full-Stack Developer</h3>
 
 <p align="start">
-  <strong>4+ years of experience</strong> in Full-Stack Development, specializing in Mobile (Android/iOS), Web Applications, and AI solutions. I handle complete projects from start to finish—planning, building, launching, and maintaining applications to ensure they grow with your business.
+  <strong>Full-Stack Developer specializing in Mobile (Android/iOS), Web Applications, and AI solutions. I handle complete projects from start to finish—planning, building, launching, and maintaining applications to ensure they grow with your business.
 </p>
 
 <p align="start">
