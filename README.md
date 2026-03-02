@@ -26,10 +26,10 @@
   </a>
   <!-- <a href="https://www.upwork.com/freelancers/~01851d6dd5d7e4b201" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/upwork" alt="Upwork" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://www.fiverr.com/devfahad_" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/fiverr" alt="Fiverr" height="30" width="40" />
-  </a> -->
+  </a>
   <a href="mailto:mughalfahad544@gmail.com" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40" />
   </a>
