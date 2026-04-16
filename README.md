@@ -15,17 +15,17 @@
 
 <h3 align="start">Connect With Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/offfahad" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" height="30" />
+  <a href="https://www.linkedin.com/in/offfahad">
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" height="30" style="margin-right: 8px;" />
   </a>
-  <a href="https://fb.com/Officialofffahad" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" height="30" />
+  <a href="https://fb.com/Officialofffahad">
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" height="30" style="margin-right: 8px;" />
   </a>
-  <a href="https://instagram.com/offfahad" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" height="30" />
+  <a href="https://instagram.com/offfahad">
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" height="30" style="margin-right: 8px;" />
   </a>
   <a href="mailto:mughalfahad544@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" height="30" />
+    <img src="https://cdn.simpleicons.org/gmail" height="30" style="margin-right: 8px;" />
   </a>
   <a href="https://www.fiverr.com/devfahad_">
     <img src="https://cdn.simpleicons.org/fiverr" height="30" />
