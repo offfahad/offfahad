@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Fahad</h1>
-<h3 align="start">ML & AI Engineer | Full-Stack Developer</h3>
+<h3 align="start">AI Engineer | Full-Stack Developer</h3>
 
 <p align="start">
   <strong>Full-Stack Developer specializing in Mobile (Android/iOS), Web Applications, and AI solutions. I handle complete projects from start to finish—planning, building, launching, and maintaining applications to ensure they grow with your business.
