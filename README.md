@@ -30,9 +30,9 @@
   <a href="mailto:mughalfahad544@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" height="30" style="margin-right: 8px;" />
   </a>
-  <a href="https://www.fiverr.com/devfahad_">
+  <!-- <a href="https://www.fiverr.com/devfahad_">
     <img src="https://cdn.simpleicons.org/fiverr" height="30" />
-  </a>
+  </a> -->
 </p>
 
 <!-- <h3 align="center">Languages And Tools</h3>
