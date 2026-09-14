@@ -1,12 +1,11 @@
 <h1 align="start">Hi 👋, I'm Fahad</h1>
-<h3 align="start">AI Engineer | Full-Stack Developer</h3>
 
 <p align="start">
-  <strong>Full-Stack Developer specializing in Mobile (Android/iOS), Web Applications, and AI solutions. I handle complete projects from start to finish—planning, building, launching, and maintaining applications to ensure they grow with your business.
+  <strong> I'm Full-Stack Developer specializing in Mobile (Android/iOS), Web Applications, and AI solutions. I handle complete projects from start to finish—planning, building, launching, and maintaining applications to ensure they grow with your business.
 </p>
 
 <p align="start">
-  I've successfully developed and contributed in the platforms like <a href="https://www.theone.academy/" target="_blank"><u>The One Academy</u></a>, <a href="https://www.4secrets-wedding-planner.de/" target="_blank"><u>4Secrets - The Wedding Planner</u></a>, and team projects like <a href="https://afghanbusinessdirectory.ca/" target="_blank"><u>Afghan Business Directory</u></a> and <a href="https://asfor.app/" target="_blank"><u>Asfor — Digital Marketplace</u></a>. These projects have helped clients earn <strong>thousands in revenue</strong> by combining easy-to-use designs with smart AI features.
+  I've built and launched my own product, <a href="https://khataconnect.web.app/" target="_blank"><u>Khata Connect: CashBook</u></a>, alongside architecting and contributing to platforms like <a href="https://ohrny.com/" target="_blank"><u>Ohrny - Private Dating App</u></a>, <a href="https://www.theone.academy/" target="_blank"><u>The One Academy</u></a>, <a href="https://www.4secrets-wedding-planner.de/" target="_blank"><u>4Secrets - The Wedding Planner</u></a>, and collaborative ventures like <a href="https://afghanbusinessdirectory.ca/" target="_blank"><u>Afghan Business Directory</u></a>. These projects have helped businesses and clients generate <strong>thousands in revenue</strong> by combining seamless user experiences with scalable, smart features.
 </p>
 
 <p align="start">
