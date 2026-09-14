@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Fahad</h1>
 
 <p align="start">
-  <strong>I am a Software Engineer and Full-Stack Developer specializing in Mobile (iOS & Android), Web Applications, and AI solutions.</strong> I lead end-to-end product lifecycles across architecture, engineering, deployment, and ongoing optimization to ensure scalable and sustainable business growth.
+  <strong>I am a Software Engineer and Full-Stack Developer.</strong> I lead end-to-end product lifecycles across architecture, engineering, deployment, and ongoing optimization to ensure scalable and sustainable business growth.
 </p>
 
 <p align="start">
